@@ -1,2 +1,2 @@
 #DSA 
-Practice questions
+Practice question
